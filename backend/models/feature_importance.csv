@@ -1,0 +1,11 @@
+feature,importance
+is_encrypted,0.17871639
+device_type,0.14480476
+failed_auth_attempts,0.09471159
+service_access_count,0.09363915
+network_out_kb,0.0894286
+network_in_kb,0.087692864
+packet_rate,0.08453732
+memory_usage,0.07789379
+avg_response_time_ms,0.07546844
+cpu_usage,0.07310718
