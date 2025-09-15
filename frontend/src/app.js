@@ -28,7 +28,7 @@ import {
 import { Upload, Download, Analytics, Info } from '@mui/icons-material';
 import { styled } from '@mui/material/styles';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://anomoly-detection-backend.onrender.com';
 
 const StyledPaper = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(3),
